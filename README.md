@@ -1,4 +1,5 @@
-<div>HI! I am <b>Aravindh</b>. New to coding like the path of <b>One Step At a Time</b></div>
+<div>HI! I am <b>Aravindh</b>. New to coding like the path of </div>
+<b><div>One</div> <div>    Step</div> At a Time</b>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
