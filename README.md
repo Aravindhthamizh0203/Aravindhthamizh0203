@@ -10,6 +10,6 @@
 </p>
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://instagram.com/my_mom_call_me_thambi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113359255/207875407-a328a316-b21d-4340-aaf7-7a0ce4111a09.png" alt="Aravindh" height="150" width="200" /></a>
+<a href="https://instagram.com/my_mom_call_me_thambi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113359255/207875407-a328a316-b21d-4340-aaf7-7a0ce4111a09.png" alt="Aravindh" height="200" width="150" /></a>
 </p>
 
