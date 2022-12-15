@@ -1,5 +1,5 @@
 <div>HI! I am <b>Aravindh</b>. New to coding like the path of </div>
-<b><div>One</div> <div>_._Step</div>  <div>_._._._At</div> <div>_._._._._._A</div> <div>_._._._._._._Time</div></b>
+<b><div>.One</div> <div>_._._Step</div>  <div>_._._._._At</div> <div>_._._._._._._A</div> <div>_._._._._._._._Time</div></b>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
